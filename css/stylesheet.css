@@ -1,0 +1,19 @@
+
+
+.wrapper{
+
+width: 100%;
+}
+
+.main_header {
+width: 100%;
+background-image: url("assets/top-back.jpg");
+
+}
+
+
+h1{
+
+font-color: blue;
+
+}
